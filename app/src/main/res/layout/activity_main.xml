@@ -20,5 +20,14 @@
         app:frameAspectRatioHeight="1"
         app:frameSize="0.75"
         app:frameThickness="2dp"
-        app:maskColor="#77000000"/>
+        app:maskColor="#77000000">
+
+        <Button
+            android:id="@+id/buttonscanned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:text="Button" />
+    </com.budiyev.android.codescanner.CodeScannerView>
+
 </FrameLayout>
