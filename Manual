@@ -15,8 +15,10 @@ Product functionality:
       the API will then let the application know that the URL is safe or not
       the application then will warn the user if the URL is dangerous
 -----------------------------------------------------------------------------------------------------------------------------------
-Product Features:
-  
+Product Features and capabilities:
+  Ability to scann QR code
+  Allow User to see the QR code message after scann
+  Respond to user to let user know if URL is dangerous
 -----------------------------------------------------------------------------------------------------------------------------------
 How to run the application
   Install the application into anroid studio
