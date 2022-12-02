@@ -1,1 +1,5 @@
-
+Install the application into anroid studio
+build the project
+install the emulator and enable camera in emulator settings
+enable the application's permission for internet connectivity
+present the QR code to be scanned to the camera
