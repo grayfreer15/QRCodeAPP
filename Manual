@@ -1,5 +1,27 @@
-Install the application into anroid studio
-build the project
-install the emulator and enable camera in emulator settings
-enable the application's permission for internet connectivity
-present the QR code to be scanned to the camera
+Product Name: Better QR code
+Product functionality: 
+  able to scann QR code
+    story: 
+      the user can bring the QR code to be scanned and be captured by the application
+      the user then can read the QR code into the application
+  ability to parse the URL within the QR code
+    story:
+      after the user capture the QR code with application the user is able to see the QR code
+      the QR code is then presented to the user so that user can verify that this is the item meant to be scanned
+  ability to detect any known malicious URL being scanned
+    story:
+      the user first capture the QR code with the application
+      the application then sends the QR code message to parse in external API
+      the API will then let the application know that the URL is safe or not
+      the application then will warn the user if the URL is dangerous
+-----------------------------------------------------------------------------------------------------------------------------------
+Product Features:
+  
+-----------------------------------------------------------------------------------------------------------------------------------
+How to run the application
+  Install the application into anroid studio
+  build the project
+  install the emulator and enable camera in emulator settings
+  enable the application's permission for internet connectivity
+  present the QR code to be scanned to the camera
+-----------------------------------------------------------------------------------------------------------------------------------
