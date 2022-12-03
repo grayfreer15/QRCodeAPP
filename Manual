@@ -28,4 +28,8 @@ How to run the application
   present the QR code to be scanned to the camera
 -----------------------------------------------------------------------------------------------------------------------------------
 Frequently asked questions
-  can application work without 
+  can application work without internet
+    no the application cannot work because security is the key towards this application and internet is needed to help securing it
+  can the appplication work without camera
+    no the application needs the camer inorder to scann the QR code
+-----------------------------------------------------------------------------------------------------------------------------------
