@@ -31,5 +31,9 @@ Frequently asked questions
   can application work without internet
     no the application cannot work because security is the key towards this application and internet is needed to help securing it
   can the appplication work without camera
-    no the application needs the camer inorder to scann the QR code
+    no the application needs the camer in order to scann the QR code
 -----------------------------------------------------------------------------------------------------------------------------------
+Troubleshooting
+  Restart the application and/or device
+  Make sure the device is connected to a stable access point
+  make sure the link is correct and QR code is correctly displayed
