@@ -11,3 +11,8 @@ This app will scan a QR code check if it is malicious via a google search databa
 
 HOW TO RUN:
 
+
+DEPENDENCIES:
+No DATABASES
+No Scripts
+Android Emulator
